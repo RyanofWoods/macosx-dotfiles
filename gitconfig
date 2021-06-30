@@ -22,6 +22,11 @@
   d = !git --no-pager diff
   dt  = difftool
   stat = !git --no-pager diff --stat
+  ca = 'commit --amend'
+  car = 'commit --amend -no-edit'
+  unstage = 'restore --staged'
+  uncommit = 'reset --soft'
+  log = 'log -E -i --grep'
 
   # Clean merged branches
   sweep = !git branch --merged master | grep -v 'master$' | xargs git branch -d && git remote prune origin
