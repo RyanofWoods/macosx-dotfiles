@@ -53,6 +53,7 @@ load-nvmrc
 # Same for `./node_modules/.bin` and nodejs
 export PATH="./bin:./node_modules/.bin:${PATH}"
 export PATH="/usr/local/sbin:${PATH}"
+export PATH="/Users/ryanwoods/code/RyanofWoods/wikip/:${PATH}"
 
 # Store your own aliases in the ~/.aliases file and load the here.
 [[ -f "$HOME/.aliases" ]] && source "$HOME/.aliases"
