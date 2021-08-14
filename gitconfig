@@ -57,3 +57,5 @@
 [user]
 	email = contact@ryanofwoods.com
 	name = Ryan Woods
+[init]
+	defaultBranch = main
