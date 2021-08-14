@@ -54,6 +54,7 @@ load-nvmrc
 export PATH="./bin:./node_modules/.bin:${PATH}"
 export PATH="/usr/local/sbin:${PATH}"
 export PATH="/Users/ryanwoods/code/RyanofWoods/wikip/:${PATH}"
+export PATH="/Applications/Google Chrome.app/Contents/MacOS:${PATH}"
 
 # Store your own aliases in the ~/.aliases file and load the here.
 [[ -f "$HOME/.aliases" ]] && source "$HOME/.aliases"
