@@ -28,6 +28,7 @@
   uncommit = reset --soft
   log = log -E -i --grep
   rc = rebase --continue
+  cpc = cherry-pick --continue
 
   # Clean merged branches
   sweep = !git branch --merged master | grep -v 'master$' | xargs git branch -d && git remote prune origin
