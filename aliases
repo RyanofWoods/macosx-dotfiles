@@ -11,3 +11,9 @@ alias spa='bin/build'
 alias cov='open coverage/index.html'
 alias chrome='Google\ Chrome'
 alias wpopen='chrome http://localhost:8888/wp-admin'
+
+# Directory shortcuts
+alias godot='cd /Users/ryanwoods/code/RyanofWoods/dotfiles'
+alias gosolx='cd /Users/ryanwoods/code/RyanofWoods/solidus-example'
+alias gosol='cd /Users/ryanwoods/code/forks/solidus'
+alias goclo='cd /Users/ryanwoods/code/forks/cloudspree'
