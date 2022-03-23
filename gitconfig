@@ -28,6 +28,7 @@
   uncommit = reset --soft
   log = log -E -i --grep
   rc = rebase --continue
+  cp = cherry-pick
   cpc = cherry-pick --continue
   gpf = push --force-with-lease
 
