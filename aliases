@@ -19,3 +19,7 @@ alias gosol='cd /Users/ryanwoods/code/forks/solidus'
 alias goclo='cd /Users/ryanwoods/code/forks/cloudspree'
 alias gomeu='cd /Users/ryanwoods/code/forks/meundies'
 alias gobird='cd /Users/ryanwoods/code/RyanofWoods/rails-react-swedish-birds'
+
+# Kill services
+alias killpgsql='rm /usr/local/var/postgres/postmaster.pid'
+alias killmysql5='rm /usr/local/var/mysql/Ryans-MacBook-Pro.local.pid'
