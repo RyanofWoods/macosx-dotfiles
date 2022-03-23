@@ -61,5 +61,10 @@
 [user]
 	email = contact@ryanofwoods.com
 	name = Ryan Woods
+	signingkey = E4136C4462A4C7FC
 [init]
 	defaultBranch = main
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
