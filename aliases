@@ -17,7 +17,7 @@ alias godot='cd /Users/ryanwoods/code/RyanofWoods/dotfiles'
 alias gosolx='cd /Users/ryanwoods/code/RyanofWoods/solidus-example'
 alias gosol='cd /Users/ryanwoods/code/forks/solidus'
 alias goclo='cd /Users/ryanwoods/code/forks/cloudspree'
-alias gomeu='cd /Users/ryanwoods/code/forks/meundies'
+alias gomeu='cd /Users/ryanwoods/code/forks/meundies/solidith'
 alias gobird='cd /Users/ryanwoods/code/RyanofWoods/rails-react-swedish-birds'
 
 # Kill services
