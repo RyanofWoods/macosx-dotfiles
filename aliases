@@ -5,6 +5,9 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
 
+# Useful general project aliases
+alias wp='webpack-dev-server'
+
 # Useful shortcut commands for Solidus:
 alias sp='bundle exec'
 alias spa='bin/build'
