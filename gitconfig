@@ -20,6 +20,7 @@
   ci = commit
   fo = fetch origin
   d = !git --no-pager diff
+  ds = diff --staged
   dt  = difftool
   stat = !git --no-pager diff --stat
   ca = commit --amend
