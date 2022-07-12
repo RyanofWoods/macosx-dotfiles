@@ -8,6 +8,7 @@ alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
 # Useful general project aliases
 alias wp='webpack-dev-server'
 alias snap='yarn run jest --updateSnapshot'
+alias bun='bundle install && yarn install'
 
 # Useful shortcut commands for Solidus:
 alias sp='bundle exec'
