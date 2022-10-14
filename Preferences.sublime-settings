@@ -1,4 +1,5 @@
 {
+  "color_scheme": "Monokai.sublime-color-scheme",
   "detect_indentation": false,
   "draw_white_space": true,
   "ensure_newline_at_eof_on_save": true,
@@ -22,6 +23,7 @@
     ".pytest_cache",
     "__pycache__"
   ],
+  "font_size": 21,
   "highlight_modified_tabs": true,
   "hot_exit": false,
   "ignored_packages":
@@ -40,6 +42,6 @@
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true,
   "use_tab_stops": true,
-  "word_wrap": false,
-  "font_size": 17,
+  "word_wrap": true,
+  "wrap_width": 72,
 }
