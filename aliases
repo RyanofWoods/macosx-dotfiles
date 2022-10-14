@@ -11,7 +11,7 @@ alias c='code .'
 alias snap='yarn run jest --updateSnapshot'
 alias bun='bundle install && yarn install'
 alias rls='bundle exec rails s'
-alias rc='bundle exec rails c'
+alias rlc='bundle exec rails c'
 
 # Useful shortcut commands for Solidus:
 alias sp='bundle exec'
