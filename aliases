@@ -12,6 +12,7 @@ alias snap='yarn run jest --updateSnapshot'
 alias bun='bundle install && yarn install'
 alias rls='bundle exec rails s'
 alias rlc='bundle exec rails c'
+alias rlm='bundle exec rails db:migrate'
 
 # Useful shortcut commands for Solidus:
 alias sp='bundle exec'
