@@ -13,6 +13,7 @@ alias bun='bundle install && yarn install'
 alias rls='bundle exec rails s'
 alias rlc='bundle exec rails c'
 alias rlm='bundle exec rails db:migrate'
+alias bug='bundle add pry-byebug --group "development"'
 
 # Useful shortcut commands for Solidus:
 alias sp='bundle exec'
